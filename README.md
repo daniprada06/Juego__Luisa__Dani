@@ -6,4 +6,6 @@
 
 
 Tienes 5 intentos para adivinar la palabra oculta. Mucha suerte!
+
+
 Creado por: Luisa Fernanda Prada y Daniela Prada
